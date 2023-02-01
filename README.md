@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malikgaurav080
 - 👀 I’m interested in Python, Machine Learning 
-- 🌱 I’m currently learning FullStack sevelopment
+- 🌱 I’m currently learning FullStack Development
 - 💞️ I’m looking to collaborate on Machine Learning and FullStack as well.
 - 📫 How to reach me +918791034774
 
